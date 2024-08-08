@@ -11,7 +11,7 @@
   - **Database**: Neste diretório, temos a classe responsável por realizar a conexão do código com o banco de dados e o script que deve ser executado no banco.
 
   **Estrutura:**
-  ![Estrutura do Projeto](Imagens/Estrutura)
+  ![Estrutura do Projeto](Imagens/Estrutura.png)
 
 # Configuração do Ambiente para Rodar a Aplicação
 

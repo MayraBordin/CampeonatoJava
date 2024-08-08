@@ -47,7 +47,7 @@
    - Compile o código usando o comando:
 
      ```sh
-     javac -d bin src/**/*.java
+     javac -d bin src/Main.java
      ```
 
      Isso compila todos os arquivos Java na pasta `src` e coloca os arquivos `.class` no diretório `bin`.
